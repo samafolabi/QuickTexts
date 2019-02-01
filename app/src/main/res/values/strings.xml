@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuickTexts</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="request_no">Request Phone Number Here</string>
+    <string name="qct">QuickContactTexts</string>
+    <string name="qt">QuickTexts</string>
+    <string name="new_qt">New QuickText</string>
+    <string name="email">email</string>
+</resources>
